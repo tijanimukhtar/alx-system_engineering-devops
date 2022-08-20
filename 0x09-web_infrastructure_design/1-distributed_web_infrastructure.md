@@ -41,7 +41,7 @@ This is a distributed web infrastructure that attempts to reduce the traffic to 
 
 ## Next
 
-+ [Next](0x09-web_infrastructure_design/2-secured_and_monitored_web_infrastructure.md)
++ [Next](2-secured_and_monitored_web_infrastructure.md)
 
 []: # Language: markdown
 []: # Path: 0x09-web_infrastructure_design/3-distributed_web_infrastructure.md
