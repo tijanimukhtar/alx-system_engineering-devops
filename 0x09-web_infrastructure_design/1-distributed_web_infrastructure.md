@@ -24,6 +24,14 @@ This is a distributed web infrastructure that attempts to reduce the traffic to 
 + To balance the load between the two servers.
 + To distribute the workloads between the two servers.
 
+## How does the load balancer work?
+
++ The load balancer is configured with the *Round Robin* distribution algorithm. This algorithm works by using each server behind the load balancer in turns, according to their weights. It’s also probably the smoothest and most fair algorithm as the servers’ processing time stays equally distributed. As a dynamic algorithm, *Round Robin* allows server weights to be adjusted on the go.
+
+## Resources
+
++ [HAProxy](https://haproxy.org/)
+
 ## References
 
 + [Wikipedia](https://en.wikipedia.org/wiki/Load_balancer)
