@@ -45,7 +45,10 @@ This is a simple web infrastructure that hosts a website that is reachable via `
 
 + [Wikipedia](https://en.wikipedia.org/wiki/Web_server_infrastructure)
 
+## Next
+
++ [Next](0x09-web_infrastructure_design/1-distributed_web_infrastructure.md)
 
 ## Copyright
 
-Copyright (c) 2022 Tijani Mukhtar Akande.
+© 2022 by [Tijani Mukhtar Akande](https://linkedin.com/in/tijanimukhtarakande).

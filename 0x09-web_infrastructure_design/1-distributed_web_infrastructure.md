@@ -36,6 +36,19 @@ This is a distributed web infrastructure that attempts to reduce the traffic to 
 
 + [Wikipedia](https://en.wikipedia.org/wiki/Load_balancer)
 
+[]: # Language: markdown
+[]: # Path: 0x09-web_infrastructure_design/2-distributed_web_infrastructure.md
+
+## Next
+
++ [Next](0x09-web_infrastructure_design/2-secured_and_monitored_web_infrastructure.md)
+
+[]: # Language: markdown
+[]: # Path: 0x09-web_infrastructure_design/3-distributed_web_infrastructure.md
+
+[]: # Language: markdown
+[]: # Path: 0x09-web_infrastructure_design/3-distributed_web_infrastructure.md
+
 ## Copyright
 
-Copyright (c) 2022 Tijani Mukhtar Akande.
+© 2022 by [Tijani Mukhtar Akande](https://linkedin.com/in/tijanimukhtarakande).
