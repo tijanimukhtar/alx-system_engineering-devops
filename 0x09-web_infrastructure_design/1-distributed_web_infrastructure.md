@@ -46,9 +46,6 @@ This is a distributed web infrastructure that attempts to reduce the traffic to 
 []: # Language: markdown
 []: # Path: 0x09-web_infrastructure_design/3-distributed_web_infrastructure.md
 
-[]: # Language: markdown
-[]: # Path: 0x09-web_infrastructure_design/3-distributed_web_infrastructure.md
-
 ## Copyright
 
 © 2022 by [Tijani Mukhtar Akande](https://linkedin.com/in/tijanimukhtarakande).

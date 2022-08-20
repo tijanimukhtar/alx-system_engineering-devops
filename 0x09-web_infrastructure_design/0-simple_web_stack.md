@@ -47,7 +47,7 @@ This is a simple web infrastructure that hosts a website that is reachable via `
 
 ## Next
 
-+ [Next](0x09-web_infrastructure_design/1-distributed_web_infrastructure.md)
++ [Next](1-distributed_web_infrastructure.md)
 
 ## Copyright
 

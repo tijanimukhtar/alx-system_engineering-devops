@@ -24,7 +24,7 @@ This is a 3-server web infrastructure that is secured, monitored, and serves enc
 
 ## Next
 
-+ [Next](0x09-web_infrastructure_design/3-scale_up.md)
++ [Next](3-scale_up.md)
 
 ## Copyright
 
