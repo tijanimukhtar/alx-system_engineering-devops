@@ -35,3 +35,7 @@ This is a distributed web infrastructure that attempts to reduce the traffic to 
 ## References
 
 + [Wikipedia](https://en.wikipedia.org/wiki/Load_balancer)
+
+## Copyright
+
+Copyright (c) 2022 Tijani Mukhtar Akande.

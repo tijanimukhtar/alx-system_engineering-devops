@@ -44,3 +44,8 @@ This is a simple web infrastructure that hosts a website that is reachable via `
 ## References
 
 + [Wikipedia](https://en.wikipedia.org/wiki/Web_server_infrastructure)
+
+
+## Copyright
+
+Copyright (c) 2022 Tijani Mukhtar Akande.
